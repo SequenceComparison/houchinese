@@ -1,0 +1,141 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss,Number
+1_sun,sun,1343,SUN,1
+2_moon,moon,1313,MOON,2
+3_star,star,1430,STAR,3
+4_thunderverb,thunder (verb),2378,THUNDER (VERB),4
+5_flashverb,flash (verb),2377,FLASH (VERB),5
+6_rain,rain,1253,RAIN (RAINING),6
+7_snow,snow,1255,SNOWING,7
+8_hail,hail,609,HAIL,8
+9_freeze,freeze,1431,FREEZE,9
+10_blow,blow,175,BLOW (OF WIND),10
+11_rainbow,rainbow,1733,RAINBOW,11
+15_thisyear,this year,513,THIS YEAR,15
+20_today,today,1283,TODAY,20
+22_wheat,wheat,1077,WHEAT,22
+24_sunflower,sunflower,1956,SUNFLOWER,24
+25_spinach,spinach,975,SPINACH,25
+26_cabbage,cabbage,774,CABBAGE,26
+29_sweetpotato,sweet potato,159,SWEET POTATO,29
+32_pig,pig,1337,PIG,32
+35_rooster,rooster,1511,ROOSTER,35
+36_chicken,chicken,1318,CHICKEN,36
+37_sparrow,sparrow,1854,SPARROW,37
+38_mouse,mouse,1491,MOUSE,38
+39_bedbug,bedbug,1949,BEDBUG,39
+40_house,house,1252,HOUSE,40
+42_window,window,1375,WINDOW,42
+43_doorsills,doorsills,2185,DOORSILLS,43
+45_kitchen,kitchen,1365,KITCHEN,45
+46_chimney,chimney,1305,CHIMNEY,46
+47_table,table,1775,TABLE,47
+48_stairs,stairs,34,STAIRS,48
+49_head,head,1256,HEAD,49
+50_forehead,forehead,123,FOREHEAD,50
+51_face,face,1560,FACE,51
+52_nose,nose,1221,NOSE,52
+53_neck,neck,1333,NECK,53
+54_lefthand,left hand,2182,LEFT HAND,54
+55_righthand,right hand,2183,RIGHT HAND,55
+56_fist,fist,1473,FIST,56
+57_forefinger,forefinger,577,FOREFINGER,57
+58_fingernail,fingernail,1258,FINGERNAIL,58
+59_knee,knee,1371,KNEE,59
+60_leg,leg,1297,LEG,60
+61_father,father,1217,FATHER,61
+62_mother,mother,1216,MOTHER,62
+73_husband,husband,1200,HUSBAND,73
+74_wife,wife,1199,WIFE,74
+75_son,son,1620,SON,75
+76_daughter,daughter,1357,DAUGHTER,76
+77_breakfast,breakfast,1322,BREAKFAST,77
+78_lunch,lunch,768,LUNCH,78
+79_supper,supper,1833,DINNER (SUPPER),79
+80_noodles,noodles,973,NOODLE,80
+85_soyasauce,soya sauce,1968,SOYA SAUCE,85
+86_salt,salt,1274,SALT,86
+87_chopsticks,chopsticks,1987,CHOPSTICKS,87
+88_spoon,spoon,1378,SPOON,88
+89_man,man,1554,MAN,89
+90_woman,woman,962,WOMAN,90
+91_boy,boy,1366,BOY,91
+92_girl,girl,1646,GIRL,92
+93_oldman,old man,406,OLD MAN,93
+94_doctor,doctor,597,PHYSICIAN,94
+2315_cook,cook,2315,COOK (PERSON),2315
+96_beggar,beggar,1934,BEGGAR,96
+97_nurse,nurse,1104,NURSE,97
+98_becomesick,become sick,1847,SICK,98
+99_catchacold,catch a cold,2184,CATCH A COLD,99
+102_humpback,humpback,99,HUNCHBACK,102
+103_die,die,1494,DIE,103
+105_i,I,1209,I,105
+106_thou,thou,1215,THOU,106
+107_he,he,1211,HE,107
+108_we,we,1212,WE,108
+109_you,you,1213,YOU,109
+110_they,they,817,THEY,110
+112_self,self,1993,SELF,112
+113_who,who,1235,WHO,113
+114_what,what,1236,WHAT,114
+115_here,here,136,HERE,115
+116_there,there,1937,THERE,116
+117_where,where,1237,WHERE,117
+118_this,this,1214,THIS,118
+119_that,that,78,THAT,119
+120_whatkindof,what kind of,727,WHICH,120
+121_how,how,1239,HOW,121
+122_classifierperson,classifier (person),516,PERSON (CLASSIFIER),122
+123_classifierpair,classifier (pair),2089,PAIR (CLASSIFIER),123
+124_classifierpillow,classifier (pillow),2166,PILLOW (CLASSIFIER),124
+125_classifiervehicle,classifier (vehicle),2167,VEHICLE (CLASSIFIER),125
+126_classifiercow,classifier (cow),2168,COW (CLASSIFIER),126
+127_classifierpig,classifier (pig),2169,PIG (CLASSIFIER),127
+128_awhile,a while,726,WHILE,128
+129_onetime,one time,374,ONE TIME,129
+130_on,on,1741,ABOVE,130
+131_under,under,1485,BELOW OR UNDER,131
+132_left,left,244,LEFT,132
+133_right,right,1019,RIGHT,133
+134_inthemiddle,in the middle,,,134
+135_inside,inside,1606,INSIDE,135
+136_outside,outside,762,OUTSIDE,136
+137_sweet,sweet,717,SWEET,137
+138_sour,sour,1906,SOUR,138
+139_salty,salty,1091,SALTY,139
+140_watery,watery,2181,LIGHT (IN TASTE),140
+141_fat,fat,1279,FAT (OBESE),141
+142_thin,thin,1400,THIN (SLIM),142
+143_cold,cold,1287,COLD,143
+144_hot,hot,1286,HOT,144
+145_wellsmelling,well smelling,376,FRAGRANT,145
+146_stinky,stinky,42,STINKING,146
+147_thick,thick,1244,THICK,147
+148_tiny,tiny,1246,SMALL,148
+149_long,long,1203,LONG,149
+150_short,short,1645,SHORT,150
+151_dirty,dirty,1230,DIRTY,151
+152_clean,clean,704,CLEAN,152
+153_cheap,cheap,1887,CHEAP,153
+156_justright,just right,1725,CORRECT (RIGHT),156
+157_and,and,1577,AND,157
+158_only,only,1580,ONLY,158
+159_from,from,693,FROM,159
+160_insteadof,instead of,1652,INSTEAD,160
+161_take,take,1749,TAKE,161
+162_onpurpose,on purpose,1031,ON PURPOSE,162
+163_one,one,1493,ONE,163
+164_two,two,1498,TWO,164
+165_three,three,492,THREE,165
+166_four,four,1500,FOUR,166
+167_five,five,493,FIVE,167
+168_six,six,1703,SIX,168
+169_seven,seven,1704,SEVEN,169
+170_eight,eight,1705,EIGHT,170
+171_nine,nine,1483,NINE,171
+172_ten,ten,1515,TEN,172
+173_eleven,eleven,1706,ELEVEN,173
+175_twenty,twenty,1710,TWENTY,175
+177_first,first,728,FIRST,177
+178_second,second,1384,SECOND,178
+180_twoounces,two ounces,2180,TWO OUNCES,180

@@ -1,0 +1,33 @@
+{
+    "title": "CLDF dataset derived from H\u00f3u's \"Phonological Database of Chinese Dialects\" from 2004",
+    "access_right": "open",
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "H\u00f3u, J\u012bngy\u012b",
+            "type": "DataCollector"
+        },
+        {
+            "name": "H\u00f3u, J\u012bngy\u012b",
+            "type": "Editor"
+        }
+    ],
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Johann-Mattis List"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>H\u00f3u, J. (2004): Xi\u00e0nd\u00e0i H\u00e0ny\u01d4 f\u0101ngy\u00e1n y\u012bnk\u00f9 \u73b0\u4ee3\u6c49\u8bed\u65b9\u8a00\u97f3\u5e93 [Phonological database of Chinese dialects]. Sh\u00e0ngh\u01cei: Sh\u00e0ngh\u01cei Ji\u00e0oy\u00f9.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
