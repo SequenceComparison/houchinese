@@ -1,6 +1,6 @@
 # CLDF dataset derived from Hóu's "Phonological Database of Chinese Dialects" from 2004
 
-[![CLDF validation](https://github.com/sequencecomparison/houchinese/workflows/CLDF-validation/badge.svg)](https://github.com/sequencecomparison/houchinese/actions?query=workflow%3ACLDF-validation)
+[![CLDF validation](https://github.com/SequenceComparison/houchinese/workflows/CLDF-validation/badge.svg)](https://github.com/SequenceComparison/houchinese/actions?query=workflow%3ACLDF-validation)
 
 ## How to cite
 
@@ -20,15 +20,15 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
-[![CLDF validation](https://github.com/sequencecomparison/houchinese/workflows/CLDF-validation/badge.svg)](https://github.com/sequencecomparison/houchinese/actions?query=workflow%3ACLDF-validation)
+[![CLDF validation](https://github.com/SequenceComparison/houchinese/workflows/CLDF-validation/badge.svg)](https://github.com/SequenceComparison/houchinese/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 99%](https://img.shields.io/badge/Concepticon-99%25-brightgreen.svg "Concepticon: 99%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 15
-- **Concepts:** 140
+- **Varieties:** 15 (linked to 15 different Glottocodes)
+- **Concepts:** 140 (linked to 139 different Concepticon concept sets)
 - **Lexemes:** 2,789
 - **Sources:** 1
 - **Synonymy:** 1.37
@@ -36,15 +36,15 @@ Conceptlists in Concepticon:
 - **Cognate Diversity:** 0.28
 - **Invalid lexemes:** 0
 - **Tokens:** 20,695
-- **Segments:** 118 (0 BIPA errors, 0 CTLS sound class errors, 118 CLTS modified)
+- **Segments:** 118 (0 BIPA errors, 0 CLTS sound class errors, 118 CLTS modified)
 - **Inventory size (avg):** 45.33
 
 # Contributors
 
 Name | GitHub user | Description | Role
---- | --- | --- | --- 
-Hóu, Jīngyī | | data collector | DataCollector, Editor | Author
-Johann-Mattis List | @LinguList | maintainer | Author | Other
+--- | --- | --- | ---
+Hóu, Jīngyī | data collector | DataCollector, Editor | Author
+Johann-Mattis List | @LinguList | maintainer | Editor
 
 
 
