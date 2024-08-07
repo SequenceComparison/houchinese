@@ -8,11 +8,7 @@
     ],
     "contributors": [
         {
-            "name": "H\u00f3u, J\u012bngy\u012b",
-            "type": "DataCollector"
-        },
-        {
-            "name": "H\u00f3u, J\u012bngy\u012b",
+            "name": "Johann-Mattis List",
             "type": "Editor"
         }
     ],
@@ -22,7 +18,7 @@
     ],
     "creators": [
         {
-            "name": "Johann-Mattis List"
+            "name": "H\u00f3u, J\u012bngy\u012b"
         }
     ],
     "upload_type": "dataset",
